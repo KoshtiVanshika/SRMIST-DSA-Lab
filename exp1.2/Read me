@@ -1,0 +1,1 @@
+Since an Integer variable takes 4 bytes in memory and a character variable takes  1 byte, store 4 character variable values into an integer variable and do any operations (like add, replace, sort, etc.) over the character variables without using any other character variable.
