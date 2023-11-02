@@ -1,0 +1,3 @@
+ii) Program 2: Repeat Program 1 using dynamic memory memory allocation instead of array. Here the ADT, LINKED_LIST will be placed in a new header file, called "linkedlist.h".
+
+[save both header files in your drive such that you can reuse them later to implement complex data structure]
