@@ -1,0 +1,16 @@
+5. Experiment 5: Implementation of linked list
+
+i) Program 1: Implement a a Linked List using array i.e. static memory allocation where one element in the array may not be necessarily linked with next indexed element of the array (after some delete operations at random locations of the array). The linked list will contain the following functions:
+-Create_AL ()
+-InsertAtBeg_AL ()
+-InsertAtPos_AL ()
+-DeleteAtBeg_AL ()
+-DeleteAtPos_AL ()
+-Print_AL ()
+[AL: array based list; other words have conventional meaning]
+Write all the functions in a "arraylist.h" header file to create ARRAY_LIST ADT.
+To hide complexity from the user, use typedef in the header file and from the main(), we shall call them as follows:
+arrayL al;
+void InsertAtPos (al, pos, data);
+.......
+Here arrayL is the type definition of the Array based list.
