@@ -1,0 +1,7 @@
+2. Experiment 2: C Programming Practices on Structure and String Operations:
+
+     i) Program 1: Take two character consecutively from the keyboard i.e. both 'space' and 'newline' can be given in between them and store them in character variables and print them.
+
+     ii) Program 2: Take two strings consecutively from the keyboard, where both strings may contain 'space', 'newline', etc., and store them in two string variables and print them. Repeat the execution by taking one character in between two strings.
+
+     iii) Program 3: Create a structure data type, "Student" which can store information: 'name, 'roll no.', 'age', 'sex', 'address' and 'marks'. Take appropriate data structure to store 5 student's information. Input them from the keyboard and then print the information (all fields) of the students who got more than 60% and 80% marks (Note 80% students will not be included in the 60% zone).
