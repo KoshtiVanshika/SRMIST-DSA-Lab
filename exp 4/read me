@@ -1,0 +1,5 @@
+4. Experiment 4: Dynamic Memory Allocation for matrix multiplications
+
+i) Program 1: Take the sizes of two matrices as standard input from the keyboard. Check whether they can be multiplied in the order given i.e. the size of the column of first matrix and size of the row of the second matrix are equal or not. Follow the process of dynamic memory allocation to create a matrix such that continuous memory blocks are not allocated for all the elements of the matrix, but you can allocate a continuous memory blocks of size of equal to the number of rows or the size of the number of columns. Take standard input for the matrices. Multiply both the matrices after storing in that way and then store the result into a third matrix. Print third matrix.
+
+ii) Program 2: Repeat Program 1, but this time no continuous memory allocation even for the rows or column will take place. Allocate every elements of a matrix in a non-continuous manner. Do matrix multiplication then.
