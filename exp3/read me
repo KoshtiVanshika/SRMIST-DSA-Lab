@@ -1,0 +1,4 @@
+
+3. Experiment 3: Dynamic memory allocation for C structures
+
+Program: Repeat "Program 3" of "Experiment 2" where the structure variable are pointer and access the data elements of the "Student" data structure using arrow (->) operator. Now, modify the program such that number of students will be decided at run-time i.e. instead of array we need to use run time allocation functions to allocate memory spaces for the "Student" variable
