@@ -1,6 +1,8 @@
 #include "queue.h"
 #include <stdlib.h>
 
+
+
 Queue *createQueue(int capacity) {
     Queue *queue = (Queue *)malloc(sizeof(Queue));
     if (!queue) {
